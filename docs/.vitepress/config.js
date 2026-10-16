@@ -44,7 +44,7 @@ export default defineConfig({
             text: '2026年10月',
             collapsed: false,
             items: [
-              { text: '17-DeepSeek 再度宕机近5小时', link: '/20261015-DeepSeek' },
+              { text: '15-DeepSeek 再度宕机近5小时', link: '/20261015-DeepSeek' },
               { text: '08-OpenAI 遭遇营收预算滑铁卢？', link: '/20261008-OpenAI' }
 
             ]
